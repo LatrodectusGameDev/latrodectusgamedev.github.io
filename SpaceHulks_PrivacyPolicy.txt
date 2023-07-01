@@ -10,7 +10,7 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 
 **Information Collection and Use**
 
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to -. The information that I request will be retained on your device and is not collected by me in any way.
+For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to IDFA. The information that I request will be retained on your device and is not collected by me in any way.
 
 The app does use third-party services that may collect information used to identify you.
 
@@ -25,16 +25,14 @@ Link to the privacy policy of third-party service providers used by the app
 *   [GameAnalytics](https://gameanalytics.com/privacy)
 *   [Vungle](https://vungle.com/privacy/)
 *   [Mixpanel](https://mixpanel.com/legal/privacy-policy/)
+*   https://facebook.com/about/privacy
+*   https://gameanalytics.com/privacy
+*   https://www.adjust.com/terms/privacy-policy/
+*   https://www.voodoo.io/
 
 **Log Data**
 
 I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
-
-**Cookies**
-
-Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
-
-This Service does not use these “cookies” explicitly. However, the app may use third-party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
 
 **Service Providers**
 
@@ -64,6 +62,52 @@ These Services do not address anyone under the age of 13. I do not knowingly col
 I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
 
 This policy is effective as of 2023-06-17
+
+**Request User Data Deletion
+
+When you install and use Sevostianov Ivan mobile applications, we can collect and process some of your data for different legitimate purposes.
+
+
+You will find below explanations regarding the reasons why we may collect data.
+
+
+**Why is data collected?
+
+Sevostianov Ivan and its third-party partners collect data:
+
+To provide you with the services you asked for
+To run analytics and understand how users interact with our product and services in order to continuously improve it
+
+The third-party partners that Sevostianov Ivan will share the data with are:
+
+GameAnalytics
+Facebook Analytics
+Adjust
+Voodoo
+Data deletion requests
+
+To delete user data collected by Sevostianov Ivan, please reach out to sevostianov.ivan@gmail.com
+
+
+If you also want to request the deletion of the data that may have been collected about you or your device by our third-party partners that are acting as independent data controllers, you will find below the contact for each partner and the link to the relevant section of their privacy policies:
+
+
+GameAnalytics:
+
+email: privacy@gameanalytics.com
+privacy policy: https://gameanalytics.com/privacy/#6-changing-or-deleting-your-information
+Facebook Analytics:
+
+email: none, please refer to the privacy policy
+privacy policy: https://www.facebook.com/policy.php
+Adjust:
+
+email: privacy@adjust.com
+privacy policy: https://www.adjust.com/terms/privacy-policy/
+Voodoo:
+
+email: dpo@voodoo.io
+privacy policy: https://www.voodoo.io
 
 **Contact Us**
 
